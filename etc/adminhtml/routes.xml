@@ -5,4 +5,9 @@
             <module name="__Namespace_____Module__"/>
         </route>
     </router>
+    <router id="standard">
+        <route frontName="__module__" id="__module__">
+            <module name="__Namespace_____Module__"/>
+        </route>
+    </router>
 </config>
