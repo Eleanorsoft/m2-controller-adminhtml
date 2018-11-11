@@ -26,7 +26,7 @@ class __Action__ extends Action
      *
      * @param Context $context
      * @param PageFactory $pageFactory
-     * @author Eugene Polischuk <eugene.polischuk@eleanorsoft.com>
+     * @author __config.author_name__ <__config.author_email__>
      */
     public function __construct(
         Context $context,
@@ -39,7 +39,7 @@ class __Action__ extends Action
 
     /**
      * @return Page
-     * @author Eugene Polischuk <eugene.polischuk@eleanorsoft.com>
+     * @author __config.author_name__ <__config.author_email__>
      */
     public function execute()
     {
